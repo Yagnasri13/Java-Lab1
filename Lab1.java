@@ -37,5 +37,15 @@ class Lab1
 }
     
  
-  
-  
+
+
+OUTPUT:
+enter a value
+1
+enter b value
+2
+enter c value
+3
+given quadratic eq is:1x^2+2x+3
+ roots are imaginary
+
